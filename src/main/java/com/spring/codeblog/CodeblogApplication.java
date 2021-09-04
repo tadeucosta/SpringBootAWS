@@ -10,4 +10,5 @@ public class CodeblogApplication {
 		SpringApplication.run(CodeblogApplication.class, args);
 	}
 
+	// Teste para o git
 }
